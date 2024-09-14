@@ -1,0 +1,45 @@
+.card-profile {
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  
+  .card-profile-image {
+    text-align: center;
+  }
+  
+  .card-profile-image img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .icon {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .card-profile h3 {
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  
+  .card-profile h4, .card-profile h5 {
+    font-size: 1.1rem;
+  }
+  
+  .text-success {
+    color: #28a745;
+  }
+  
+  .ms-2 {
+    margin-left: 0.5rem;
+  }
+  
+  .mb-2 {
+    margin-bottom: 1rem;
+  }
+  
+  .mb-4 {
+    margin-bottom: 2rem;
+  }
+  
